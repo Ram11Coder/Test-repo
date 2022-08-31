@@ -1,3 +1,3 @@
 # Test-repo
 
-- This is a dummy repo
+- This is a dummy repo, created for testing purpose
